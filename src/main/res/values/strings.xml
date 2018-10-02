@@ -1,0 +1,4 @@
+<resources>
+    <string name="network_error">Ошибка подключение к серверу</string>
+
+</resources>
